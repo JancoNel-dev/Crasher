@@ -1,4 +1,7 @@
 # crasher
+
+by Janco
+
 This is a Windows command line tool that you can use to crash specified process for testing purpose, such as verifying your crash reporting tools.
 
 ## Usage
