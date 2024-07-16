@@ -1,3 +1,7 @@
+// main.c
+// Copyright MIT license
+// By Janco Nel
+
 #include <windows.h>
 #include <psapi.h>
 #include <tlhelp32.h>
